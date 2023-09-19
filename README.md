@@ -36,6 +36,6 @@
 ###### i)Study the source and do some quick research to understand more about the dataset and its topic
 ###### ii)Clean the data
 ###### iii)Prepare the data for processing and analysis
-###### iv)Perform data pre-processing to manipulate the data for analysis and draft out targetted tabels for analysis
+###### iv)Perform data pre-processing to manipulate the data for analysis and draft out targetted tables for analysis
 ###### v)Analyze the data more deeply and extract insights
-###### vi)Visualize the data using Python and Tableau. Check out the Tableau Workbook on Global Terrorism Analysis.
+###### vi)Visualize the data using Python. 
