@@ -7,21 +7,21 @@
 ### Characteristics of the Database
 ###### i)Contains information on over 200,000 terrorist attacks
 ###### ii)Currently the most comprehensive unclassified database on terrorist attacks in the world
-###### iii)Efficiently covers attacks between 1970 to 17 September, 2019
+###### iii)Efficiently covers attacks between 1970 to 17 September 2019
 ###### iv)More than 4,000,000 news articles and 25,000 news sources were reviewed to collect incident data from 1998 to 2019 alone
 ###### v)The attacks in the GTD are attributed to more than 2,000 named perpetrator organizations
 
 ### Project Milestones
-###### i)Creating a SQLite database table named "Global_Terrorism" with a defined schema and then importing data from a CSV file named "globalterrorism.csv" into this table using Python's SQLite library.
-##### ii)Performing Data cleaning and transformation after loading the rows into the database table from "globalterrorism.csv".
-##### iii)Data Exploration with respect to regions, countries and period(1970 to 2019).
-##### iv)Creating HeatMap to check the correlation of attributes.
-##### v) Implementing Random Forest classifier to predict if casuality will take place given that a terrorist activity has occured in any part of the world with an accuracy of 86.77%
+###### i)Creating an SQLite database table named "Global_Terrorism" with a defined schema and then importing data from a CSV file named "globalterrorism.csv" into this table using Python's SQLite library.
+###### ii)Performing Data cleaning and transformation after loading the rows into the database table from "globalterrorism.csv".
+###### iii)Data Exploration with respect to regions, countries, and periods (1970 to 2019).
+###### iv)Creating HeatMap to check the correlation of attributes.
+###### v) Implementing Random Forest classifier to predict if casualty will take place given that terrorist activity has occurred in any part of the world with an accuracy of 86.77%
 
 ### Key Features of this project
 ###### Implemented Dynamic Exploratory Data Analysis where we could concentrate on a single country to perform specific analysis.
-##### We asked the user to the enter a country name on which the rest of the EDA would change showing specific analysis of that country terrorism.
-## Example in this project i have taken the example of Germany.
+###### We asked the user to enter a country name on which the rest of the EDA would change showing a specific analysis of that country's terrorism.
+### Example In this project I have taken the example of Germany.
 
 ![image](https://github.com/Tanish007/Global-Terrorism-Analysis/assets/25193512/57b06864-e16a-45f1-83b0-8ad28cb0f51c)
 
